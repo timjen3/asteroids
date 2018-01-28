@@ -1,0 +1,9 @@
+﻿  Asteroids.cpp
+c:\users\shoopoo2\repos\asteroidsgame\asteroids.cpp(141): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shoopoo2\repos\asteroidsgame\asteroids.cpp(142): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\shoopoo2\repos\asteroidsgame\asteroids.cpp(182): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shoopoo2\repos\asteroidsgame\asteroids.cpp(221): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shoopoo2\repos\asteroidsgame\asteroids.cpp(287): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\shoopoo2\repos\asteroidsgame\asteroids.cpp(333): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\shoopoo2\repos\asteroidsgame\asteroids.cpp(332): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  AsteroidsGame.vcxproj -> C:\Users\Shoopoo2\Repos\AsteroidsGame\Debug\AsteroidsGame.exe
